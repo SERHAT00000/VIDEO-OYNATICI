@@ -20,9 +20,11 @@ Video Player, C# ve Windows Forms (WinForms) kullanılarak geliştirilmiş, hafi
 
 ## 📸 Ekran Görüntüleri
 
-| Ana Ekran | Oynatma Modu |
+| Ana Ekran | Oynatma Modu |<img width="1227" height="808" alt="Image" src="" />
+
+<img width="1235" height="807" alt="Image" src="" />
 | :--- | :--- |
-| ![Ana Ekran](https://github.com/user-attachments/assets/46d17b97-b468-4faf-8d61-ac6366141ada) | ![Oynatma](https://github.com/user-attachments/assets/807a907c-183a-4504-bb48-6a6c940ffb50) |
+| ![Ana Ekran](https://github.com/user-attachments/assets/9eff592c-19be-4618-b232-88f7141393d7) | ![Oynatma](https://github.com/user-attachments/assets/eb35d110-522c-4731-a998-adbe41a9830f) |
 > *Not: Kendi ekran görüntülerini `screenshots/` klasörüne ekleyip buradaki linkleri güncelleyebilirsin.*
 
 ## ⚙️ Kurulum ve Çalıştırma
