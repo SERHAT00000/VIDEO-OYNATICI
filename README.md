@@ -22,7 +22,7 @@ Video Player, C# ve Windows Forms (WinForms) kullanılarak geliştirilmiş, hafi
 
 | Ana Ekran | Oynatma Modu |
 | :--- | :--- |
-| ![Ana Ekran](https://github.com/user-attachments/assets/807a907c-183a-4504-bb48-6a6c940ffb50) | ![Oynatma](https://github.com/user-attachments/assets/46d17b97-b468-4faf-8d61-ac6366141ada) |
+| ![Ana Ekran](https://github.com/user-attachments/assets/46d17b97-b468-4faf-8d61-ac6366141ada) | ![Oynatma](https://github.com/user-attachments/assets/807a907c-183a-4504-bb48-6a6c940ffb50) |
 > *Not: Kendi ekran görüntülerini `screenshots/` klasörüne ekleyip buradaki linkleri güncelleyebilirsin.*
 
 ## ⚙️ Kurulum ve Çalıştırma
